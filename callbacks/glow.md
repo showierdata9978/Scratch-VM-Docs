@@ -1,4 +1,4 @@
-# Script Glowing
+# Glowing
 
 the callback name starts with `SCRIPT` or `BLOCK` and the center is allways `_GLOW_` ends with `ON` or `OFF`. 
 

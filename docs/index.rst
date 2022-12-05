@@ -6,6 +6,7 @@ Pages
 -------
 .. toctree::
    :maxdepth: 6
+   
    Glowing
    ProjectEdited
    StopSign

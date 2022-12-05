@@ -8,10 +8,6 @@ SCRIPT refers to a stack of blocks that are not seperated or they all run when o
 
 BLOCK refers to a single block that is clicked
 
-## arguments
-
-- 1
-> type: object
-> 
-> example data
-> > ```{id: topBlockId}```
+args
+-------
+arg number: 1 | type: object | example data: ``{id: topBlockId}`` |
